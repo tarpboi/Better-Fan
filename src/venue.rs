@@ -9,7 +9,7 @@ pub const NAME: &str = "Better Fan";
 /// Venue category.
 pub const VENUE_TYPE: &str = "Sports / esports";
 
-/// Strategies this venue runs on the shared engine.
+/// Strategies mapped to this venue on the shared engine.
 pub const STRATEGIES: &[&str] = &[
     "Sports Execution",
 ];
