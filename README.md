@@ -17,7 +17,7 @@ These are the strategies mapped to Better Fan. They run here once its adapter is
 
 | Strategy |
 |----------|
-| 🏆 **Sports Execution** — click, filled, done — FAK |
+| 🏆 **Sports Execution** — type it, filled, done, from the terminal |
 
 > Want a strategy not listed here on Better Fan? Adapter coverage is demand-driven — [ask](https://t.me/tarpboi).
 
